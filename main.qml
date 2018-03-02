@@ -10,7 +10,7 @@ ApplicationWindow{
 		text:"Hola Qml Unik GitHub!"
 		font.pixelSize: 30
 		color: "#fff"
-		anchors.centeIn: parent
+		anchors.centerIn: parent
 	}
 
 }
